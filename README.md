@@ -1,5 +1,4 @@
 # ⚡ Electrical Team Hub (2026)
-Welcome to the central command for all things hardware. This repository serves as the "Source of Truth" for our sub-team's designs, documentation, and project tracking.
 
 ---
 
@@ -16,11 +15,9 @@ Welcome to the central command for all things hardware. This repository serves a
 ## 📂 Repository Navigation
 | Folder | Content |
 | :--- | :--- |
-| `/Schematics` | Official PDF exports of current PCB designs. |
-| `/Datasheets` | Local copies of critical component datasheets. |
-| `/Calculations` | Jupyter notebooks or Excel files for power budgets/regulators. |
-| `/Firmware` | Test scripts and driver code for hardware validation. |
-| `/Procedures` | SOPs for soldering, safety, and lab equipment. |
+| `/Schematics` | Official PDF exports of current PCB designs (will change this once we are at this phase). |
+| `/Datasheets` | Local copies of component datasheets. |
+| `/Research` | PDF's of finalized EE research to reference in design/implementation phase |
 
 ---
 
