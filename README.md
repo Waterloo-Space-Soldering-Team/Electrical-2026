@@ -1,5 +1,5 @@
 # ⚡ Electrical Team Hub (2026)
-
+Welcome to the EE team's GitHub repository. This README will be used as the central hub for the EE team to access links/documents, track the timeline, and version control for our work.💡🔌⚡️!!!  
 ---
 
 ## 🚀 Quick Links
@@ -22,10 +22,41 @@
 ---
 
 ## 🔧 Current Tasks Timeline & Status
-* **Voltage Regulator Module:** 🟢 *In Review* (Altium)
-* **Main Distribution Board:** 🟡 *Prototyping*
-* **Sensor Interface:** 🔴 *Design Phase*
-(for more information, check out the WSST Tasks Spreadsheet)
+## 🔧 Current Tasks Timeline & Status
+
+> [!TIP]
+> Click on the weeks below to expand the task details. For the full history, check the [WSST Tasks Spreadsheet](LINK_HERE).
+
+<details open>
+<summary><b>Week 3: Jan 19 - Jan 23 (Current Week)</b></summary>
+
+| Task | Status | Start Date | Target End |
+| :--- | :--- | :--- | :--- |
+| **Voltage Regulator Module** | 🟢 In Review | Jan 19 | Jan 22 |
+| **Main Distribution Board** | 🟡 Prototyping | Jan 20 | Jan 27 |
+| **Sensor Interface** | 🔴 Design Phase | Jan 21 | Feb 02 |
+
+</details>
+
+<details>
+<summary><b>Week 2: Jan 12 - Jan 16</b></summary>
+
+| Task | Status | Start Date | End Date |
+| :--- | :--- | :--- | :--- |
+| **Component Selection** | ✅ Finished | Jan 12 | Jan 14 |
+| **Schematic Draft 1** | ✅ Finished | Jan 13 | Jan 16 |
+
+</details>
+
+<details>
+<summary><b>Week 1: Jan 5 - Jan 9</b></summary>
+
+| Task | Status | Start Date | End Date |
+| :--- | :--- | :--- | :--- |
+| **Initial Requirements** | ✅ Finished | Jan 5 | Jan 7 |
+| **Team Onboarding** | ✅ Finished | Jan 5 | Jan 9 |
+
+</details>
 
 ---
 
