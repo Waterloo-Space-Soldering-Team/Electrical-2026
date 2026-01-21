@@ -24,26 +24,27 @@ Welcome to the EE team's GitHub repository. This README will be used as the cent
 > Click on the weeks below to expand the task details. For the full history, check the [WSST Project Timeline]([LINK_HERE](https://docs.google.com/spreadsheets/d/1TxL7L951-uZ9K-v9mkE0O0fgC3oPocVfRmw8gNtRFNM/edit?gid=0#gid=0)).
 
 <details open>
+<summary><b>Week 3: Jan 18 - Jan 24 (Active)</b></summary>
 
-<details>
-<summary><b>Week 3: Jan 18 - Jan 24</b></summary>
 | Task | Status | Start Date | Target End |
 | :--- | :--- | :--- | :--- |
-| **Pincel Iron Research** | In Progress | Jan 19 | Jan 26 |
-| **Slip Ring Research** | Not Started | Jan 19 | Jan 26 |
-| **Power System 1st Electrical Schematic** | In Progress | Jan 19 | Jan 23 |
-| **PCB components selection (Inside Centrifuge)** | In Progress | Jan 20 | Jan 21 |
-| **Custom PCB Requirements vs SW Requirements** | In Progress | Jan 20 | Jan 28 |
-</details>
+| **Pincel Iron Research** | 🟡 In Progress | Jan 19 | Jan 26 |
+| **Slip Ring Research** | 🔴 Not Started | Jan 19 | Jan 26 |
+| **Power System 1st Electrical Schematic** | 🟡 In Progress | Jan 19 | Jan 23 |
+| **PCB components selection (Inside Centrifuge)** | 🟡 In Progress | Jan 20 | Jan 21 |
+| **Custom PCB Requirements vs SW Requirements** | 🟡 In Progress | Jan 20 | Jan 28 |
 
+</details>
 <details>
 <summary><b>Week 2: Jan 11 - Jan 17</b></summary>
-*Soldering Mechanism Design*
+* Soldering Mechanism Design Phase
 </details>
 
 <details>
 <summary><b>Week 1: Jan 4 - Jan 10</b></summary>
-*Onboarding meetings and general setup*
+* Onboarding meetings
+* GitHub Repo setup
+* General system requirements defined
 </details>
 
 ---
