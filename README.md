@@ -21,7 +21,7 @@ Welcome to the EE team's GitHub repository. This README will be used as the cent
 
 ## 🔧 Current Tasks Timeline & Status
 > [!TIP]
-> Click on the weeks below to expand the task details. For the full history, check the [WSST Project Timeline]([LINK_HERE](https://docs.google.com/spreadsheets/d/1TxL7L951-uZ9K-v9mkE0O0fgC3oPocVfRmw8gNtRFNM/edit?gid=0#gid=0)).
+> Click on the weeks below to expand the task details. For the full history, check the [WSST Project Timeline]([https://docs.google.com/spreadsheets/d/1TxL7L951-uZ9K-v9mkE0O0fgC3oPocVfRmw8gNtRFNM/edit?gid=0#gid=0]).
 
 <details open>
 <summary><b>Week 3: Jan 18 - Jan 24 (Active)</b></summary>
