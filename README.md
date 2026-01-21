@@ -3,10 +3,10 @@
 Welcome to the EE team's GitHub repository. This README will be used as the central hub for the EE team to access links/documents, track the timeline, and version control for our work.💡🔌⚡️!!!  
 
 ## 🚀 Quick Links
-* 📅 **Project Timeline/Gantt:** [Link to Spreadsheet/Notion]
-* 💰 **BOM & Inventory:** [Link to Google Sheet/Parts List]
-* 🧪 **Test Results Dashboard:** [Link to Folder/External Site]
-* 🛠️ **Meeting Minutes:** [Link to Wiki or Folder]
+* 📅 **Project Timeline/Gantt:** [WSST Project Timeline](https://docs.google.com/spreadsheets/d/1TxL7L951-uZ9K-v9mkE0O0fgC3oPocVfRmw8gNtRFNM/edit?gid=0#gid=0).
+* 💰 **EE Task Descriptions:** [WSST EE Task Descriptions](https://docs.google.com/spreadsheets/d/1TxL7L951-uZ9K-v9mkE0O0fgC3oPocVfRmw8gNtRFNM/edit?gid=0#gid=0).
+* 💰 **Google Drive:** [WSST Google Drive 2025-2026]([https://docs.google.com/spreadsheets/d/1TxL7L951-uZ9K-v9mkE0O0fgC3oPocVfRmw8gNtRFNM/edit?gid=0#gid=0](https://drive.google.com/drive/u/0/folders/1zJ-i5Lo6H34v-8EjNIEcOU5Kh-QdvqDR)), [WSST Google Drive 2023 - 2024]([[https://docs.google.com/spreadsheets/d/1TxL7L951-uZ9K-v9mkE0O0fgC3oPocVfRmw8gNtRFNM/edit?gid=0#gid=0](https://drive.google.com/drive/u/0/folders/1zJ-i5Lo6H34v-8EjNIEcOU5Kh-QdvqDR](https://drive.google.com/drive/u/0/folders/1so--L-lAAHv6V2BYjRP7cR9q9Y2VwP2x)).
+* 🛠️ **Meeting Minutes:** [Meeting Minutes]([https://docs.google.com/spreadsheets/d/1TxL7L951-uZ9K-v9mkE0O0fgC3oPocVfRmw8gNtRFNM/edit?gid=0#gid=0](https://docs.google.com/document/d/1CrEofbMLnO4Q7-h89SenpHoK8pbHFTvERLVf1BtcR3M/edit?usp=sharing)).
 
 ---
 
@@ -23,7 +23,7 @@ Welcome to the EE team's GitHub repository. This README will be used as the cent
 Click on the weeks below to expand the task details. For the full history, check the [WSST Project Timeline](https://docs.google.com/spreadsheets/d/1TxL7L951-uZ9K-v9mkE0O0fgC3oPocVfRmw8gNtRFNM/edit?gid=0#gid=0).
 
 <details open>
-<summary><b>Week 3: Jan 18 - Jan 24 (Active)</b></summary>
+<summary><b>Week 3: Jan 18 - Jan 24</b></summary>
 
 | Task | Status | Start Date | Target End |
 | :--- | :--- | :--- | :--- |
