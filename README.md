@@ -24,23 +24,14 @@ Welcome to the central command for all things hardware. This repository serves a
 
 ---
 
-## 🔧 Current Projects & Status
+## 🔧 Current Tasks Timeline & Status
 * **Voltage Regulator Module:** 🟢 *In Review* (Altium)
 * **Main Distribution Board:** 🟡 *Prototyping*
 * **Sensor Interface:** 🔴 *Design Phase*
+(for more information, check out the WSST Tasks Spreadsheet)
 
 ---
 
-## 📚 Onboarding & Standards
-If you are new to the team, please read the **[Onboarding Guide](./docs/ONBOARDING.md)**.
-
-### Design Standards:
-* **Software:** Altium Designer 24+
-* **Naming Convention:** `YYYY-MM-DD_ProjectName_vX.X`
-* **Review Process:** No PCB is manufactured without a peer review from at least two members.
-
----
-
-## 📞 Contact
-* **Electrical Lead:** [Your Name]
-* **Communication:** Join the `#electrical-2026` channel on Slack/Discord.
+## 📞 Contact & Members
+* **Electrical Lead:** Shamanthi Rajagopal
+* **Electrical Members:** Ziren Ji, Faraaz Hamid, Rachel Zhang
