@@ -1,7 +1,7 @@
 # ⚡ Electrical Team Hub (2026)
 ---
 Welcome to the EE team's GitHub repository. This README will be used as the central hub for the EE team to access links/documents, track the timeline, and version control for our work.💡🔌⚡️!!!  
----
+
 ## 🚀 Quick Links
 * 📅 **Project Timeline/Gantt:** [Link to Spreadsheet/Notion]
 * 💰 **BOM & Inventory:** [Link to Google Sheet/Parts List]
