@@ -5,7 +5,6 @@ Welcome to the EE team's GitHub repository. This README will be used as the cent
 ## 🚀 Quick Links
 * 📅 **Project Timeline/Gantt:** [WSST Project Timeline](https://docs.google.com/spreadsheets/d/1TxL7L951-uZ9K-v9mkE0O0fgC3oPocVfRmw8gNtRFNM/edit?gid=0#gid=0).
 * 💰 **EE Task Descriptions:** [WSST EE Task Descriptions](https://docs.google.com/spreadsheets/d/1TxL7L951-uZ9K-v9mkE0O0fgC3oPocVfRmw8gNtRFNM/edit?gid=0#gid=0).
-* 💰 **Google Drive:** [WSST Google Drive 2025-2026]([https://docs.google.com/spreadsheets/d/1TxL7L951-uZ9K-v9mkE0O0fgC3oPocVfRmw8gNtRFNM/edit?gid=0#gid=0](https://drive.google.com/drive/u/0/folders/1zJ-i5Lo6H34v-8EjNIEcOU5Kh-QdvqDR)), [WSST Google Drive 2023 - 2024]([[https://docs.google.com/spreadsheets/d/1TxL7L951-uZ9K-v9mkE0O0fgC3oPocVfRmw8gNtRFNM/edit?gid=0#gid=0](https://drive.google.com/drive/u/0/folders/1zJ-i5Lo6H34v-8EjNIEcOU5Kh-QdvqDR](https://drive.google.com/drive/u/0/folders/1so--L-lAAHv6V2BYjRP7cR9q9Y2VwP2x)).
 * 🛠️ **Meeting Minutes:** [Meeting Minutes]([https://docs.google.com/spreadsheets/d/1TxL7L951-uZ9K-v9mkE0O0fgC3oPocVfRmw8gNtRFNM/edit?gid=0#gid=0](https://docs.google.com/document/d/1CrEofbMLnO4Q7-h89SenpHoK8pbHFTvERLVf1BtcR3M/edit?usp=sharing)).
 
 ---
