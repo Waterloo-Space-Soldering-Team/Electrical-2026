@@ -28,7 +28,7 @@ Click on the weeks below to expand the task details. For the full history, check
 | Task | Status | Start Date | Target End |
 | :--- | :--- | :--- | :--- |
 | **Pincel Iron Research** | 🟡 In Progress | Jan 19 | Jan 26 |
-| **Slip Ring Research** | 🔴 Not Started | Jan 19 | Jan 26 |
+| **Slip Ring Research** | 🟡 In Progress | Jan 19 | Jan 26 |
 | **Power System 1st Electrical Schematic** | 🟡 In Progress | Jan 19 | Jan 23 |
 | **PCB components selection (Inside Centrifuge)** | 🟡 In Progress | Jan 20 | Jan 21 |
 | **Custom PCB Requirements vs SW Requirements** | 🟡 In Progress | Jan 20 | Jan 28 |
