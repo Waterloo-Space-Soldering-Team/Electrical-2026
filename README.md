@@ -1,2 +1,7 @@
 # Electrical-2026
-Electrical Team's Workspace
+
+(GENERAL README)
+
+# Welcome to the ✨ Electrical Team's Workspace ✨
+
+
