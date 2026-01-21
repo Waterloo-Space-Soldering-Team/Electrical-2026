@@ -42,8 +42,6 @@ Click on the weeks below to expand the task details. For the full history, check
 <details>
 <summary><b>Week 1: Jan 4 - Jan 10</b></summary>
 * Onboarding meetings
-* GitHub Repo setup
-* General system requirements defined
 </details>
 
 ---
