@@ -7,6 +7,7 @@ Welcome to the EE team's GitHub repository. This README will be used as the cent
 * 🗃️ **WSST Google Drives:** [WSST 2025-2026](https://drive.google.com/drive/u/0/folders/1zJ-i5Lo6H34v-8EjNIEcOU5Kh-QdvqDR) | [WSST 2023-2024](https://drive.google.com/drive/u/0/folders/1so--L-lAAHv6V2BYjRP7cR9q9Y2VwP2x).
 * 🛠️ **Task Description:** [EE Task Description](https://docs.google.com/document/d/1abAsn076MIgmFNWpfa--6w_zdcHuYFjquN9TvhB4Mxc/edit?usp=sharing).
 * 📄 **Meeting Minutes:** [Meeting Minutes](https://docs.google.com/document/d/1CrEofbMLnO4Q7-h89SenpHoK8pbHFTvERLVf1BtcR3M/edit?usp=sharing).
+* ⚡ **EE Altium Workspace:** [Altium](https://americas-university-of-waterloo-waterloo-space-solderi.365.altium.com/designs/folder-00000000-0000-0000-0000-000000000001).
 
 ---
 
